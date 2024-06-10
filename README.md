@@ -46,4 +46,4 @@ docker run -d -p 80:80 reverse_shell_generator
 
 Browse to http://localhost:80
 
-<p>All Credit Goes to the Brother<a href=https://github.com/0dayCTF>Ryan Montgomery (0dayCTF)</a></p>
+<p> All Credit For This Awesome App Goes to the Brother <a href=https://github.com/0dayCTF> Ryan Montgomery (0dayCTF) </a></p>
